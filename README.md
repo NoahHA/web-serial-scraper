@@ -1,6 +1,6 @@
 # PDF Generator for Mother of Learning Web Serial
 
-This project generates PDFs containing the text for the popular web novel Mother of Learning by Domagoj Kurmaic. I used Selenium to web scrape the chapter text and FPDF to generate the PDFs.
+This project generates PDFs containing the text for the popular web novel Mother of Learning by Domagoj Kurmaic. I used Selenium to web scrape the chapter text and FPDF to generate the PDF.
 
 The reason I made this project was so that I could read offline when travelling or without internet connection. I also didn't like the look of the website and preferred to read it from a PDF.
 
